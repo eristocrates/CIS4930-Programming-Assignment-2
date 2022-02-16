@@ -1,0 +1,12 @@
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\bin\Debug\net6.0\Library.ListManagement.deps.json
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\bin\Debug\net6.0\Library.ListManagement.dll
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\bin\Debug\net6.0\ref\Library.ListManagement.dll
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\bin\Debug\net6.0\Library.ListManagement.pdb
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\obj\Debug\net6.0\Library.ListManagement.csproj.AssemblyReference.cache
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\obj\Debug\net6.0\Library.ListManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\obj\Debug\net6.0\Library.ListManagement.AssemblyInfoInputs.cache
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\obj\Debug\net6.0\Library.ListManagement.AssemblyInfo.cs
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\obj\Debug\net6.0\Library.ListManagement.csproj.CoreCompileInputs.cache
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\obj\Debug\net6.0\Library.ListManagement.dll
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\obj\Debug\net6.0\ref\Library.ListManagement.dll
+E:\School\2022 Spring\CIS4930 Special Topics in Computer Science\CIS4930-Programming-Assignment-2\ListManagement\Library.ListManagement\obj\Debug\net6.0\Library.ListManagement.pdb

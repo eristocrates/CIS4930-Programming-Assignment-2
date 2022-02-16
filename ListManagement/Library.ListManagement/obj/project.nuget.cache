@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aaU7Xwh+Bv1ZaC+5S4Fkxy5f9dwOtGB7gKwpXqfSj19AI2Mbe1d57WStgd06G3RVKpXy1FfdAIji1CGIj+3d8A==",
+  "success": true,
+  "projectFilePath": "E:\\School\\2022 Spring\\CIS4930 Special Topics in Computer Science\\CIS4930-Programming-Assignment-2\\ListManagement\\Library.ListManagement\\Library.ListManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reill\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
